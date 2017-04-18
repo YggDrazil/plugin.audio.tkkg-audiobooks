@@ -87,6 +87,6 @@ def main():
         play_song(args['url'][0])
     
 if __name__ == '__main__':
-    sample_page = 'http://www.theaudiodb.com/testfiles/'
+    sample_page = 'http://kodinerds.bplaced.net/audiobooks/tkkg/'
     addon_handle = int(sys.argv[1])
     main()
