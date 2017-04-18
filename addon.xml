@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.audio.tkkg-audiobooks" name="TKKG Hörbücher" version="0.0.1" provider-name="curti">
+<addon id="plugin.audio.tkkg-audiobooks" name="TKKG Hörbücher" version="0.0.1" provider-name="YggDrazil">
     <requires>
         <import addon="xbmc.python" version="2.20.0" />
         <import addon="script.module.beautifulsoup4" version="4.3.2"/>
@@ -11,7 +11,7 @@
     <extension point="xbmc.addon.metadata">
         <summary lang="en">http://www.theaudiodb.com/testfiles/</summary>
         <license>GNU General Public License, v2</license>
-        <description lang="en">Add-on tutorial for Audio using cc licensed audio from http://www.theaudiodb.com/</description>
+        <description lang="en">Ein Fall für TKKG (kurz: TKKG), bezeichnet eine von Rolf Kalmuczak unter dem Pseudonym Stefan Wolf erschaffene deutsche Jugendbuchreihe sowie die darauf beruhende gleichnamige Hörspielserie. Mit 14 Millionen verkauften Büchern gehört die Serie zu den erfolgreichsten Jugendbuchreihen, die Zahl der verkauften Hörspielkassetten und CDs beträgt 30 Millionen.[1] Seit dem Tod Kalmuczaks 2007 wird die Serie auf ausdrücklichen Wunsch des Schöpfers mit verschiedenen Autoren weitergeführt. TKKG gilt im gesamten deutschsprachigen Raum neben der Buchreihe Die drei ??? als kommerziell erfolgreichste Serie ihres Genres</description>
         <platform>all</platform>
     </extension>
 </addon>
